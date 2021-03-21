@@ -1,1 +1,1 @@
-This i smy index file!
+This is my index file!
